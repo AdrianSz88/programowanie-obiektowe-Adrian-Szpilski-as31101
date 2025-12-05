@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string password;
+
+do
+{
+    Console.Write("Podaj hasło: ");
+    password = Console.ReadLine() ?? "";
+}
+while (password != "admin123");
+
+Console.WriteLine("Zalogowano pomyślnie!");
