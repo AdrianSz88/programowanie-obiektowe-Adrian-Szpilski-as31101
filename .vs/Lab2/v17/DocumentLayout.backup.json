@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|d:\\repo\\programowanie-obiektowe-adrian-szpilski-as31101\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|d:\\repo\\programowanie-obiektowe-adrian-szpilski-as31101\\lab2\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|d:\\repo\\programowanie-obiektowe-adrian-szpilski-as31101\\lab2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|d:\\repo\\programowanie-obiektowe-adrian-szpilski-as31101\\lab2\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|solutionrelative:data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|d:\\repo\\programowanie-obiektowe-adrian-szpilski-as31101\\lab2\\models\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D023BE3-3366-425D-A9A8-0ECCDB9E50D7}|Lab2.csproj|solutionrelative:models\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvxgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T20:10:54.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\data.json",
+              "RelativeDocumentMoniker": "data.json",
+              "ToolTip": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\data.json",
+              "RelativeToolTip": "data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T22:28:30.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Models\\Bike.cs",
+              "RelativeDocumentMoniker": "Models\\Bike.cs",
+              "ToolTip": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Models\\Bike.cs",
+              "RelativeToolTip": "Models\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:25:45.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:23:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "D:\\Repo\\programowanie-obiektowe-Adrian-Szpilski-as31101\\Lab2\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:17:58.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
