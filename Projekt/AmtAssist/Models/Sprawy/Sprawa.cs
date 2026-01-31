@@ -54,7 +54,7 @@ namespace AmtAssist.Models.Sprawy
             Console.WriteLine($"Status sprawy {NumerSprawy} zmieniony na: {nowyStatus}");
         }
 
-        // Metody abstrakcyjne - każda konkretna sprawa MUSI je zaimplementować
+        // Metody abstrakcyjne
         public abstract decimal ObliczOpłatę();
         public abstract bool SprawdźKompletność();
         public abstract List<string> PobierzWymaganeDokumenty();

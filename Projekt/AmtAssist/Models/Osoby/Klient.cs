@@ -10,7 +10,7 @@ namespace AmtAssist.Models.Osoby
         public string AdresNiemcy { get; set; }
         public DateTime DataRejestracji { get; private set; }
 
-        //lista spraw klienta (kolekcja generyczna)
+        //lista spraw klienta
         private List<Sprawa> _sprawy;
 
         //konstruktor

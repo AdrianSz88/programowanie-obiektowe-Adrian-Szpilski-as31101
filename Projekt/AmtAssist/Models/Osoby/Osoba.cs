@@ -8,7 +8,7 @@
         public string Email { get; set; }
         public string Telefon { get; set; }
 
-        //konstruktor - wywoływany przy tworzeniu nowej osoby
+        //konstruktor 
         protected Osoba(string imię, string nazwisko, string email, string telefon)
         {
             Imię = imię;
@@ -17,10 +17,10 @@
             Telefon = telefon;
         }
 
-        //metoda abstrakcyjna - każda klasa pochodna MUSI ją zaimplementować
+        //metoda abstrakcyjna 
         public abstract void WyświetlDane();
 
-        //zwykła metoda - dostępna dla wszystkich klas pochodnych
+        //zwykła metoda
         public string PełneImię()
         {
             return $"{Imię} {Nazwisko}";
